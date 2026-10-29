@@ -70,10 +70,10 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ## Program
 
 ### Developed By:
-**Name:** KARNAM PAREESH NAIDU
+**Name:** NARENDRA KRISHNAN KS
 
 ### Register No:
-212225230129
+212225240096
 ---
 ## PYHTON CODES AND OUTPUT:
 ### PROGRAM IMPORTING LIBRARIES:
